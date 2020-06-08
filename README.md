@@ -1,2 +1,2 @@
 # Algorithms-Course
-Algorithms from different sources
+Algorithms from Youtube course MFTI.
